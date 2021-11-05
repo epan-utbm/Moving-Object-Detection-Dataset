@@ -7,7 +7,7 @@ The more accurate and a practical way of detecting moving object in vision tasks
 ![Dataset Preparation](Dataset_prep.png)
 Please refer to our [paper]() for more details on dataset preparation and details.
 
-![Dataset Details](tabel.png.png)
+![Dataset Details](tabel.png)
 # Download
 
 Click [here]() to download the dataset. 
