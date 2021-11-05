@@ -5,16 +5,9 @@ A new dataset for moving object detection is developed that covers all the dynam
 The more accurate and a practical way of detecting moving object in vision tasks is by understanding the motion across two sequential images. We used several sequences from KITTI-raw and EU long-term datasets to prepare a total of 10059 binary mask images (having static/moving objects) with corresponding annotated binary mask labels (having moving objects only). Each binary mask label for moving objects is build from corresponding sequence pair images.
 
 ![Dataset Preparation](Dataset_prep.png)
-Please refer to our paper for more details on dataset preparation and details.
+Please refer to our [paper]() for more details on dataset preparation and details.
 
-
-| Number of Images |   Object Classes  |  Course |
-|:----------------:|:-----------------:|:-------:|
-|                  | All type vehicles |         |
-|      10059       |    Pedestrians    |   YES   |
-|                  |      Cyclists     |         |
-|                  |  Motor Bike, etc  |         |
-
+![Dataset Details](images/tabel.png.png)
 # Download
 
 Click [here]() to download the dataset. 
